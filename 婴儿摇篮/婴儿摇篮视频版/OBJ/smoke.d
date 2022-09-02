@@ -1,0 +1,9 @@
+..\obj\smoke.o: ..\EMWIN\Demo\smoke.c
+..\obj\smoke.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\smoke.o: ..\EMWIN\STemWin\inc\GUI.h
+..\obj\smoke.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+..\obj\smoke.o: ..\EMWIN\STemWin\Config\GUIConf.h
+..\obj\smoke.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+..\obj\smoke.o: ..\EMWIN\STemWin\inc\LCD.h
+..\obj\smoke.o: ..\EMWIN\STemWin\inc\Global.h
+..\obj\smoke.o: ..\EMWIN\STemWin\inc\GUI_Version.h

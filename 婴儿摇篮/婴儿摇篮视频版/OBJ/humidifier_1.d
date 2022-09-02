@@ -1,0 +1,9 @@
+..\obj\humidifier_1.o: ..\EMWIN\Demo\humidifier.c
+..\obj\humidifier_1.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\humidifier_1.o: ..\EMWIN\STemWin\inc\GUI.h
+..\obj\humidifier_1.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+..\obj\humidifier_1.o: ..\EMWIN\STemWin\Config\GUIConf.h
+..\obj\humidifier_1.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+..\obj\humidifier_1.o: ..\EMWIN\STemWin\inc\LCD.h
+..\obj\humidifier_1.o: ..\EMWIN\STemWin\inc\Global.h
+..\obj\humidifier_1.o: ..\EMWIN\STemWin\inc\GUI_Version.h

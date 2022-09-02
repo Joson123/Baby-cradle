@@ -1,0 +1,9 @@
+..\obj\wake-up.o: ..\EMWIN\Demo\wake-up.c
+..\obj\wake-up.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\wake-up.o: ..\EMWIN\STemWin\inc\GUI.h
+..\obj\wake-up.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+..\obj\wake-up.o: ..\EMWIN\STemWin\Config\GUIConf.h
+..\obj\wake-up.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+..\obj\wake-up.o: ..\EMWIN\STemWin\inc\LCD.h
+..\obj\wake-up.o: ..\EMWIN\STemWin\inc\Global.h
+..\obj\wake-up.o: ..\EMWIN\STemWin\inc\GUI_Version.h

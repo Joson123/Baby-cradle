@@ -1,0 +1,9 @@
+..\obj\tiwen.o: ..\EMWIN\Demo\tiwen.c
+..\obj\tiwen.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\tiwen.o: ..\EMWIN\STemWin\inc\GUI.h
+..\obj\tiwen.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+..\obj\tiwen.o: ..\EMWIN\STemWin\Config\GUIConf.h
+..\obj\tiwen.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+..\obj\tiwen.o: ..\EMWIN\STemWin\inc\LCD.h
+..\obj\tiwen.o: ..\EMWIN\STemWin\inc\Global.h
+..\obj\tiwen.o: ..\EMWIN\STemWin\inc\GUI_Version.h

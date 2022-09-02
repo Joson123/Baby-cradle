@@ -1,0 +1,16 @@
+..\obj\purifier.o: ..\HARDWARE\Purifier\purifier.c
+..\obj\purifier.o: ..\HARDWARE\Purifier\purifier.h
+..\obj\purifier.o: ..\SYSTEM\sys\sys.h
+..\obj\purifier.o: ..\USER\stm32f10x.h
+..\obj\purifier.o: ..\CORE\core_cm3.h
+..\obj\purifier.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\purifier.o: ..\USER\system_stm32f10x.h
+..\obj\purifier.o: ..\USER\stm32f10x_conf.h
+..\obj\purifier.o: ..\FWLIB\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\obj\purifier.o: ..\USER\stm32f10x.h
+..\obj\purifier.o: ..\FWLIB\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\purifier.o: ..\FWLIB\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\purifier.o: ..\FWLIB\STM32F10x_FWLib\inc\stm32f10x_spi.h
+..\obj\purifier.o: ..\FWLIB\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\purifier.o: ..\FWLIB\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\purifier.o: ..\FWLIB\STM32F10x_FWLib\inc\misc.h

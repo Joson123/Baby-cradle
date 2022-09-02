@@ -1,0 +1,9 @@
+..\obj\swing.o: ..\EMWIN\Demo\swing.c
+..\obj\swing.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\swing.o: ..\EMWIN\STemWin\inc\GUI.h
+..\obj\swing.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+..\obj\swing.o: ..\EMWIN\STemWin\Config\GUIConf.h
+..\obj\swing.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+..\obj\swing.o: ..\EMWIN\STemWin\inc\LCD.h
+..\obj\swing.o: ..\EMWIN\STemWin\inc\Global.h
+..\obj\swing.o: ..\EMWIN\STemWin\inc\GUI_Version.h

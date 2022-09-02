@@ -1,0 +1,9 @@
+..\obj\lock-on.o: ..\EMWIN\Demo\Lock-on.c
+..\obj\lock-on.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\lock-on.o: ..\EMWIN\STemWin\inc\GUI.h
+..\obj\lock-on.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+..\obj\lock-on.o: ..\EMWIN\STemWin\Config\GUIConf.h
+..\obj\lock-on.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+..\obj\lock-on.o: ..\EMWIN\STemWin\inc\LCD.h
+..\obj\lock-on.o: ..\EMWIN\STemWin\inc\Global.h
+..\obj\lock-on.o: ..\EMWIN\STemWin\inc\GUI_Version.h

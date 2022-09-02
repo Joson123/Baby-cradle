@@ -1,0 +1,9 @@
+..\obj\milk_heater.o: ..\EMWIN\Demo\milk_heater.c
+..\obj\milk_heater.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\milk_heater.o: ..\EMWIN\STemWin\inc\GUI.h
+..\obj\milk_heater.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+..\obj\milk_heater.o: ..\EMWIN\STemWin\Config\GUIConf.h
+..\obj\milk_heater.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+..\obj\milk_heater.o: ..\EMWIN\STemWin\inc\LCD.h
+..\obj\milk_heater.o: ..\EMWIN\STemWin\inc\Global.h
+..\obj\milk_heater.o: ..\EMWIN\STemWin\inc\GUI_Version.h

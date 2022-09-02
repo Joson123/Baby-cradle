@@ -1,0 +1,9 @@
+..\obj\lock-off.o: ..\EMWIN\Demo\Lock-off.c
+..\obj\lock-off.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\lock-off.o: ..\EMWIN\STemWin\inc\GUI.h
+..\obj\lock-off.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+..\obj\lock-off.o: ..\EMWIN\STemWin\Config\GUIConf.h
+..\obj\lock-off.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+..\obj\lock-off.o: ..\EMWIN\STemWin\inc\LCD.h
+..\obj\lock-off.o: ..\EMWIN\STemWin\inc\Global.h
+..\obj\lock-off.o: ..\EMWIN\STemWin\inc\GUI_Version.h

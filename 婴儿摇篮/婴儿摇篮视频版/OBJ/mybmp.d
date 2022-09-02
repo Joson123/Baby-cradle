@@ -1,0 +1,10 @@
+..\obj\mybmp.o: ..\EMWIN\Demo\mybmp.c
+..\obj\mybmp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\mybmp.o: ..\EMWIN\Demo\mybmp.h
+..\obj\mybmp.o: ..\EMWIN\STemWin\inc\GUI.h
+..\obj\mybmp.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+..\obj\mybmp.o: ..\EMWIN\STemWin\Config\GUIConf.h
+..\obj\mybmp.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+..\obj\mybmp.o: ..\EMWIN\STemWin\inc\LCD.h
+..\obj\mybmp.o: ..\EMWIN\STemWin\inc\Global.h
+..\obj\mybmp.o: ..\EMWIN\STemWin\inc\GUI_Version.h

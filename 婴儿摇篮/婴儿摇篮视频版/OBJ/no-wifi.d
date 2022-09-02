@@ -1,0 +1,9 @@
+..\obj\no-wifi.o: ..\EMWIN\Demo\no-wifi.c
+..\obj\no-wifi.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\no-wifi.o: ..\EMWIN\STemWin\inc\GUI.h
+..\obj\no-wifi.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+..\obj\no-wifi.o: ..\EMWIN\STemWin\Config\GUIConf.h
+..\obj\no-wifi.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+..\obj\no-wifi.o: ..\EMWIN\STemWin\inc\LCD.h
+..\obj\no-wifi.o: ..\EMWIN\STemWin\inc\Global.h
+..\obj\no-wifi.o: ..\EMWIN\STemWin\inc\GUI_Version.h

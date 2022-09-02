@@ -1,0 +1,9 @@
+..\obj\music-1.o: ..\EMWIN\Demo\music-1.c
+..\obj\music-1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\music-1.o: ..\EMWIN\STemWin\inc\GUI.h
+..\obj\music-1.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+..\obj\music-1.o: ..\EMWIN\STemWin\Config\GUIConf.h
+..\obj\music-1.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+..\obj\music-1.o: ..\EMWIN\STemWin\inc\LCD.h
+..\obj\music-1.o: ..\EMWIN\STemWin\inc\Global.h
+..\obj\music-1.o: ..\EMWIN\STemWin\inc\GUI_Version.h

@@ -1,0 +1,9 @@
+..\obj\environment-temperature.o: ..\EMWIN\Demo\environment-temperature.c
+..\obj\environment-temperature.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\environment-temperature.o: ..\EMWIN\STemWin\inc\GUI.h
+..\obj\environment-temperature.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+..\obj\environment-temperature.o: ..\EMWIN\STemWin\Config\GUIConf.h
+..\obj\environment-temperature.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+..\obj\environment-temperature.o: ..\EMWIN\STemWin\inc\LCD.h
+..\obj\environment-temperature.o: ..\EMWIN\STemWin\inc\Global.h
+..\obj\environment-temperature.o: ..\EMWIN\STemWin\inc\GUI_Version.h

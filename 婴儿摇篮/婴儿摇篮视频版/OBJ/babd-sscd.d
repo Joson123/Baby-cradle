@@ -1,0 +1,9 @@
+..\obj\babd-sscd.o: ..\EMWIN\Demo\babd-sscd.c
+..\obj\babd-sscd.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\babd-sscd.o: ..\EMWIN\STemWin\inc\GUI.h
+..\obj\babd-sscd.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+..\obj\babd-sscd.o: ..\EMWIN\STemWin\Config\GUIConf.h
+..\obj\babd-sscd.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+..\obj\babd-sscd.o: ..\EMWIN\STemWin\inc\LCD.h
+..\obj\babd-sscd.o: ..\EMWIN\STemWin\inc\Global.h
+..\obj\babd-sscd.o: ..\EMWIN\STemWin\inc\GUI_Version.h

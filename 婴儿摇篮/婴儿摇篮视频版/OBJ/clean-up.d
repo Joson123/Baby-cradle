@@ -1,0 +1,9 @@
+..\obj\clean-up.o: ..\EMWIN\Demo\clean-up.c
+..\obj\clean-up.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\clean-up.o: ..\EMWIN\STemWin\inc\GUI.h
+..\obj\clean-up.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+..\obj\clean-up.o: ..\EMWIN\STemWin\Config\GUIConf.h
+..\obj\clean-up.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+..\obj\clean-up.o: ..\EMWIN\STemWin\inc\LCD.h
+..\obj\clean-up.o: ..\EMWIN\STemWin\inc\Global.h
+..\obj\clean-up.o: ..\EMWIN\STemWin\inc\GUI_Version.h

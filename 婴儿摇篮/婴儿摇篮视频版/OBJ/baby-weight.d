@@ -1,0 +1,9 @@
+..\obj\baby-weight.o: ..\EMWIN\Demo\baby-weight.c
+..\obj\baby-weight.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\baby-weight.o: ..\EMWIN\STemWin\inc\GUI.h
+..\obj\baby-weight.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+..\obj\baby-weight.o: ..\EMWIN\STemWin\Config\GUIConf.h
+..\obj\baby-weight.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+..\obj\baby-weight.o: ..\EMWIN\STemWin\inc\LCD.h
+..\obj\baby-weight.o: ..\EMWIN\STemWin\inc\Global.h
+..\obj\baby-weight.o: ..\EMWIN\STemWin\inc\GUI_Version.h

@@ -1,0 +1,9 @@
+..\obj\environment-humidity.o: ..\EMWIN\Demo\environment-humidity.c
+..\obj\environment-humidity.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\environment-humidity.o: ..\EMWIN\STemWin\inc\GUI.h
+..\obj\environment-humidity.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+..\obj\environment-humidity.o: ..\EMWIN\STemWin\Config\GUIConf.h
+..\obj\environment-humidity.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+..\obj\environment-humidity.o: ..\EMWIN\STemWin\inc\LCD.h
+..\obj\environment-humidity.o: ..\EMWIN\STemWin\inc\Global.h
+..\obj\environment-humidity.o: ..\EMWIN\STemWin\inc\GUI_Version.h

@@ -1,0 +1,9 @@
+..\obj\bed.o: ..\EMWIN\Demo\bed.c
+..\obj\bed.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\bed.o: ..\EMWIN\STemWin\inc\GUI.h
+..\obj\bed.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+..\obj\bed.o: ..\EMWIN\STemWin\Config\GUIConf.h
+..\obj\bed.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+..\obj\bed.o: ..\EMWIN\STemWin\inc\LCD.h
+..\obj\bed.o: ..\EMWIN\STemWin\inc\Global.h
+..\obj\bed.o: ..\EMWIN\STemWin\inc\GUI_Version.h
